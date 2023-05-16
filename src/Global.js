@@ -1,0 +1,1 @@
+export const API_FACULTY_URL = "https://645757ab1a4c152cf97fb990.mockapi.io/faculty";

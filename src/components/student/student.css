@@ -1,0 +1,38 @@
+.student{
+    flex: 4;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /* padding: 5px; */
+}
+.studentHeadContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.studentHeadTitle{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.studentHeadButton{
+    border: none;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: darkblue;
+    color: white;
+    font-size: 16px;
+}
+.tableEditButton{
+    background-color: #3bb077;
+    color: white;
+    border: none;
+    border-radius:10px;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+.tableDeleteIcon{
+    color: red;
+    cursor: pointer;
+}
